@@ -1107,7 +1107,7 @@
     </div>
 
     <script>
-        const API_BASE_URL = 'http://16.171.147.226:3008';
+        const API_BASE_URL = 'http://13.60.22.103:3008';
         let currentMonth = new Date().getMonth();
         let currentYear = new Date().getFullYear();
         let cachedLeaves = []; // Cache for leave data

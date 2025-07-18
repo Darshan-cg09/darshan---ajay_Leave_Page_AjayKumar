@@ -25,11 +25,11 @@ const pool = new Pool(poolConfig);
 
 // Enhanced CORS configuration
 const allowedOrigins = [
-  'http://16.171.147.226:5500',
-  'http://16.171.147.226:5500',
-  'http://16.171.147.226:5500',
-  'http://16.171.147.226:8037',
-  'http://16.171.147.226:8038'
+  'http://13.60.22.103:5500',
+  'http://13.60.22.103:5500',
+  'http://13.60.22.103:5500',
+  'http://13.60.22.103:8037',
+  'http://13.60.22.103:8038'
 ];
 
 app.use(cors({
